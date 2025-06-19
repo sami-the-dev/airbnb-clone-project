@@ -1,10 +1,10 @@
 # Project Overview
 
-This project is a full-stack AirBnB clone designed to provide a seamless property rental experience. Users can search for listings, view property details, and make bookings. The project covers frontend development, backend API creation, database management, and deployment.
+This project is a full-stack Airbnb clone aimed at delivering a seamless property rental experience. Users can search for listings, view property details, and make bookings. The project encompasses frontend development, backend API creation, database management, and deployment.
 
 ## Technology Stack
 
-- **Frontend:** HTML, CSS, JavaScript (React or similar)
+- **Frontend:** HTML, CSS, JavaScript (React)
 - **Version Control:** Git & GitHub
 - **Design:** Figma (UI/UX prototyping)
 
@@ -24,7 +24,7 @@ This project is a full-stack AirBnB clone designed to provide a seamless propert
 - Secure booking process
 - User authentication
 
-## Project Roles and Responsibilities.
+## Project Roles and Responsibilities
 
 | Role                | Responsibilities                                                    |
 | ------------------- | ------------------------------------------------------------------- |
@@ -36,3 +36,29 @@ This project is a full-stack AirBnB clone designed to provide a seamless propert
 | DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure           |
 | Product Owner       | Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings   |
+
+## UI Component Patterns
+
+**Planned Components:**
+
+- **Navbar**
+
+  - Logo
+  - Search bar
+  - User navigation
+  - Responsive menu
+
+- **Property Card**
+
+  - Property image
+  - Basic details (price, location, rating)
+  - Favorite button
+  - Responsive layout
+
+- **Footer**
+  - Site links
+  - Company information
+  - Social media links
+  - Copyright information
+
+Each component will be designed for reusability and consistency across the application.
